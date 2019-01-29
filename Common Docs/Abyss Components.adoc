@@ -1,0 +1,17 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+== Abyss Components
+
+Abyss platform consists of many components workking together.
+most importants are
+
+===== Abyss Gateway
+manages all APIs and APP together under pre-defined circumscription
+
+===== Abyss Dashboard
+manages all activities using user panel for settings, monitoring, view analytics etc.

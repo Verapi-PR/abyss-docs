@@ -1,0 +1,53 @@
+Main Header
+===========
+Optional Author Name <optional@author.email>
+Optional version, optional date
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+== Create License
+
+You can create a License by following below steps:
+
+****
+. Click My License on user's manu.
+. Click New button
+
+.On General Information section:
+. Fill in the attributes as follows:
+.. License Name
+.. Lİcense Version
+.. Title
+.. Description
+. Select Visibility from dropdown list as Public or Private
+
+.On Policies section:
+. Type on search field to find policy that you already created
+. Select policy from list
+
+.On SLA section:
+. Fill in the attributes as follows:
+.. AL Tier Name
+.. SLA Description
+.. SLA Suport Haurs
+.. Availability
+.. SLA Blackout Hours Per Year
+.. SLA Performance
+
+
+.On Legal Agreement Section:
+. Fill in the attributes as follows:
+.. Legal Agreement Name
+.. Legal Agreement Description
+. Select Agreement Type from dropdown list
+. Select Document State
+. Fill Legal Agreement Link
+. Fill Document Text
+****
+
+
+.Create License Screen
+[Figure 1]
+image::images/createlicense.jpg[]

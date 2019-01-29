@@ -1,0 +1,19 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+
+== Create Proxy API
+
+{sp} +
+
+You can create a proxy API from a Business API.
+
+* Firstly select an Business API from My APPs menu.
+* then click Create Proxy button
+
+NOTE: You can see new created Proxy API on Proxy API section under My APIs menu.
+You can also edit this Proxy API in that section.

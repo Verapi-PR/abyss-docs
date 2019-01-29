@@ -1,0 +1,32 @@
+Main Header
+===========
+Optional Author Name <optional@author.email>
+Optional version, optional date
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  23/01/2019
+
+
+== Subscribe to an API
+
+
+You can start to consume an Proxy API by subscribing on Abyss Platform.
+
+Follow these steps to subscribe to an API:
+
+* Explore an API
+* Click on the API
+* Select a License by toggle button
+* Select your APP on Select APP field
+* Click Subscribe button
+
+
+NOTE: There can be multiple licenses on an API. You can choose one of them according to your requirements.
+
+****
+.Subscribing to an API Screen
+[Figure 1]
+image::images/subscribetoanapi.jpg[]
+
+****

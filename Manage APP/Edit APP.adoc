@@ -1,0 +1,30 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+
+== Edit Application
+
+You can edit your aown applications.
+
+
+===
+****
+
+. Click My APPs tab
+. Select application to edit
+. Click ... dot on the right upper corner
+. Click Edit APP button
+- You can edit following fields:
+
+* APP name
+* Description
+* Active or Inactivate
+* Organization Id
+* Directory
+
+****
+===

@@ -1,0 +1,63 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+
+== Roles
+
+Abyss Platform has following roles:
+
+* System Administrator
+* Organization Administrator
+* Developer
+* User
+
+
+You can access Roles menu in Access Management > Roles.
+
+
+
+=== Organization Administrator
+
+****
+Orgranization Administrator manages below roles in a odganization on Abyss Platform:
+
+* Dashbord
+* Users
+* Roles
+* Permissions
+* Certificates
+* APIs
+* APPs
+* Security tokens
+* IDM
+* Policies
+* Licenses
+* AM
+* Audits
+* Logs
+
+****
+
+****
+Organization Administrator also perform following tasks:
+
+* Invite a user to an organization
+* Add, edit, remove users from an organization
+* Add a user to a role
+* Edit, modify, remove services
+* Edit, modify, remove policies
+* Edit, modify, remove licenses
+
+in the organization.
+
+****
+
+=== Developers
+
+Developers have only read-only access to API.
+Users must be a member of an organization to access to the organisation APIs.
+A developer can be e member of multiple organizations to consume APIs from different organizations.

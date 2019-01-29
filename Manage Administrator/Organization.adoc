@@ -1,0 +1,31 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+
+== Organization
+
+Organization is the root level of Abyss Platform.
+
+You can view, configure and manage APIs, APPs, users, permissions, roles, events etc in the Organization.
+
+An Organization is created automaticly when you create an Abyss Platform account with Organization Administr role.
+
+Organization name and icon are displayed on the top of the left side of the page.
+You can navigate between your organizations by clicking organization icon.
+You can also view and edit properties of an organization by cliking name.
+
+Multiple users can be a member of an Organization.
+
+They share resources, applications, API's and environments according to assigned roles and permissions.
+
+For example, while one user can only read API, other user can edit an API in the Organization.
+
+
+NOTE: In trial mode you have one default organization and you dont have access edit it ot create new organizations.
+
+
+When you first signs up Abyss Platform you become the owner of your organization. Organization owner is also assigned as a Organization Administer role automatically.

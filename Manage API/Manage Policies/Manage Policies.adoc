@@ -1,0 +1,41 @@
+Main Header
+===========
+
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  22/01/2019
+
+
+
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  22/01/2019
+
+
+== Policies
+You can manage your policies on Abyss Platform. There are also template policies that you can on your licenses by modifiying them.
+
+****
+You can do following tasks:
+
+* Create Policy
+* Delete Policy
+* Edit Policy
+** Edit Name
+** Edit Description
+** Edit Version
+** Edit Policy Type
+** Edit API Lifecycle
+*** Policy Active on Proxy Request
+*** Policy Active on Proxy Response
+*** Policy Active on Business Request
+*** Policy Active on Business Response
+
+****
+
+
+.Policies Screen
+[Figure 1]
+image::images/policies.jpg[]

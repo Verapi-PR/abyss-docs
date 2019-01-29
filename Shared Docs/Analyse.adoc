@@ -1,0 +1,13 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+
+== Analyse
+
+Abyss has flexiable functions and graphics to monitor all activities and traffics of API.
+
+You can customise your dashboard by using various analysing components. This give you power of managing APIs.

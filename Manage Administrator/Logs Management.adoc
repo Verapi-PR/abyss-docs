@@ -1,0 +1,80 @@
+Main Header
+===========
+Optional Author Name <optional@author.email>
+Optional version, optional date
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+
+== Logs ==
+
+Abyss stores and provides logs of all activities of users, APPs and APIs, events, networks in a log file.
+All changes in Abyss Platform are logged through an audit logging service.
+These log files give you all details of activities.
+
+****
+You can view below logs:
+
+* View Logs
+** Activity Logs
+** Access logs
+** Change logs
+* Search logs
+** Search by detault cirteria
+** Search by custom dates, times
+** Search by system message types
+** Search by free text
+
+****
+
+NOTE: **Activity Logs:** You can see API management activity logs
+
+
+=== Search Logs
+
+==== Search by default or custom date/time criterias
+
+You can search logs with default search criteria or by specifying a date range.
+
+
+****
+Main search critertias;
+
+* Last month
+* Last week
+* Last 24 hours
+* Last hour
+
+****
+
+==== Search by Message Type
+
+You can search logs with system priority message types:
+
+****
+* Info
+* Sytem
+* Warn
+* Error
+* Fatal
+* Concole
+* Debug
+****
+
+==== Search by text
+
+You can search logs with typing a text in search box. Matching results will ve listed on search listing filed.
+
+
+
+
+=== Log Keeping Period
+
+Abyss stores logs up to 100 MB per application or up to 30 days.
+
+=== Log TimeZones
+
+All logs are stored in Univrsal Time Zone (UTC).
+However, it might be displayed as local time zone on your computer.

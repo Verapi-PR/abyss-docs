@@ -1,0 +1,10 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+
+== Frequently Asked Questions
+This section lists commonly asked questions or frequently encountered issues and how to resolve them.

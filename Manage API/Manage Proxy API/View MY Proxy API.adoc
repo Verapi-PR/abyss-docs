@@ -1,0 +1,226 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+== View APIs
+
+You can view your Business APIs and Proxy APIs on My APIs section of User Menu.
+There are different listing sections to view your APIs this menu.
+You can view your APIs on this section by:
+
+==== My Business APIs
+==== My Proxy APIs
+==== My Subscriptions (subscriptions to my APIs)
+==== APIs shared by Me
+==== APIs Shared With Me
+==== Organization APIs
+
+
+
+
+
+{sp} +
+
+---
+
+
+=== My Business APIs ===
+
+
+Your business APIs are listed on this section. You can see below information of Business APIs on rows:
+
+* API logo
+* API name
+* API Version
+* API Status
+* API State
+* API Environment
+* # of Proxies
+* API Created Date
+* API Updated Date
+
+
+NOTE: You can Click on any Business API to see more information about the Business API.
+
+
+.My Business APIs
+[Figure 1]
+image::images/api-view-business-detail.jpg[]
+
+
+
+Under My Business APIs section you can also see:
+
+* Proxy APIs which created from your the Business APIs.
+** Licenses of the Proxy APIs.
+*** Policies which used under the licenses.
+
+
+You can do below actions on detail page of Business APIs:
+
+* Change API Owner
+* Clone API
+* Edit API
+* Create Proxy API
+* View API
+* Change Lifecycle of API
+* View logs
+
+
+
+
+
+{sp} +
+
+---
+
+
+=== My Proxy APIs ===
+
+
+Proxy APIs are listed on this section.
+You can see below information of Proxy APIs:
+
+* API logo
+* API name
+* API Version
+* API Status
+* API State
+* API Environment
+* # of Subscriptions
+* API Created Date
+* API Updated Date
+
+
+NOTE: You can click on any Proxy API to see more information about the Proxy API.
+
+
+
+.My Proxy APIs
+[Figure 1]
+image::images/api-view-proxy-detail.jpg[]
+
+
+
+Under My Proxy APIs section you can also see:
+
+* Licenses of the Proxy APIs.
+** Policies which used under the licenses.
+
+You can do below actions on detail page of Business APIs:
+
+* Share API
+* Clone API
+* Edit API
+* View API
+* Subscribe APIs
+* Change Lifecycle of API
+* View logs
+
+
+
+
+
+
+{sp} +
+
+---
+
+
+=== My Subscriptions ===
+{sp} +
+
+The subscriptions of the Proxy APIs are listed on this section.
+You can see below information of Subscripted Proxy APIs:
+
+* API logo
+* API name
+* API Version
+* API Status
+* API State
+* API Environment
+* # of Subscriptions
+* API Created Date
+* API Updated Date
+
+NOTE: You can click on any Proxy API to see more information about the Proxy API.
+
+
+
+image:images/api-view-Sub.jpg[]
+
+
+Under My Proxy APIs section you can also see:
+
+* Licenses of the Proxy APIs.
+** Policies which used under the licenses.
+
+
+{sp} +
+
+---
+=== APIs shared by Me ===
+
+
+You can see List of Proxy APIs on this section which are shared with another Abyss user by yourselves.
+
+You can see below information of Subscripted Proxy APIs:
+
+
+* API logo
+* API name
+* API Version
+* API Status
+* API State
+* API Environment
+* # of Subscriptions
+* API Created Date
+* API Updated Date
+
+NOTE: You can click on any Proxy API to see more information about the Proxy API.
+
+
+
+You can also see below details when click on a shared Proxy API:
+
+* Detail of Proxy API shared by me.
+** List of users with whom proxy API shared by me.
+
+image:images/api-view-sharedbyme.jpg[]
+
+
+
+
+{sp} +
+
+---
+
+=== APIs Shared with Me ===
+{sp} +
+
+The APIs shared with you are listed on this section.
+
+You can also see below details when click on an Proxy API shard with me:
+
+* Detail of the Proxy API shared with me.
+
+
+
+image:images/api-view-sharedwithme-detail.jpg[]
+
+{sp} +
+
+---
+
+=== Organization APIs ===
+{sp} +
+
+All Organization APIs are listed on this section.
+You can
+
+* Subscribe an API.
+* Unsubscribe an API if you already subscribed.
+* See logs.

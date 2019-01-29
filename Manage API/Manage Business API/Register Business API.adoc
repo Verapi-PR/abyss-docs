@@ -1,0 +1,21 @@
+Main Header
+===========
+Optional Author Name <optional@author.email>
+Optional version, optional date
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+
+== Register Business API
+
+You can register your API to Abyss platform by using below methods;
+
+* From Scratch
+* WADL
+* WSDL
+* Swagger
+** By Using OpenAPI v.3
+** By Uning Swagger 2
+* RAML

@@ -1,0 +1,24 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  21/01/2019
+
+
+
+
+=== Updating User Infromation
+****
+* log Abyss Platform
+* Click My Profile
+
+image::images/myprofile1.jpg[]
+****
+
+****
+* Edit user informations on the screen
+* Click Save button.
+
+image::images/myprofile2.jpg[]
+****

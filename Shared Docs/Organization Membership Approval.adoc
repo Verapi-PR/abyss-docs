@@ -1,0 +1,51 @@
+Main Headers
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+== Organization Membership Invitation, Request, Approval
+
+Organziations on Abyss platform may have members. This membership request can be made by both an organzation owner or a platform user.
+
+---
+=== Approval Request by a Platform User
+
+
+A platform user can join an organization to be a member of this organization by following steps:
+
+* Platform user finds and selects an organization and sends an intivation to the owner of organization.
+
+* Organization owner receives a notification by the system about the request.
+
+* Organization owner clicks notification.
+
+* Notification directs organization owner to mailbox.
+
+* Organization owner opens mail and clicks approval or reject button inside of mail.
+
+* System sends a notification to user to inform about approve or reject.
+
+{sp} +
+
+=== Approval Request by an Organization Owner
+
+An organization owner can add a platform user to his own organization.
+
+* Organization owner selects a user from a directory and sends a invitation.
+
+* Platform user receives a notification by the system about the request.
+
+* User clicks notification.
+
+* Notification directs user to mailbox.
+
+* User opens mail and and clicks approval or reject button inside of mail.
+
+* System sends a notification to organzation owner to inform about approve or reject.
+ 
+
+
+
+

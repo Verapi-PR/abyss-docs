@@ -1,0 +1,39 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  22/01/2019
+
+
+== API Licenses
+
+
+Abyss allows you to create your own licenses on your organization.
+
+
+****
+You can do following tasks with licenses:
+
+* Create API License
+* Select API License
+* Revise API License
+* Terminate API License
+* Manage Service Level Agreement
+** Create SLA
+** Monitor SLA
+** Report SLA
+** Version SLA
+* Manage Legal Agreement
+* Publish Private License
+* Manage License Terms
+** Add Policy to a License
+** Add Environment to a License
+
+****
+
+
+
+.Licenses Screen
+[Figure 1]
+image::images/licenses.jpg[]

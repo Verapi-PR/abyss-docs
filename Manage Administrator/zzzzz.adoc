@@ -1,0 +1,30 @@
+Main Header
+===========
+Optional Author Name <optional@author.email>
+Optional version, optional date
+:Author: Ihsan Beyhan
+:Email: ihsan.beyhan@verapi.com
+:Date: 17/01/2019
+:Revision: 17/01/2019
+
+
+
+== Discover APIs
+
+=== Search APIs
+
+There are many APIs on API Market. You can search APIs with various search criteria such as tags, categories, groups etc.
+You can click one or more tags on tag section under Explore menu to list selected tags only.
+There are also different categories under Explore Menu. You can choose related categories to list the APIs.
+
+You can also search APIs by using search field. You type the letters on the field what you look for and Search area brings appreciate results of your search criteria.
+
+
+=== Explore APIs
+You have many option to explore APIs on Explore section. You can explore APIs by Tag, Category, newest APIs, recent APIs, popular APIs etc.
+
+
+
+.Explore APIs
+[Figure 1]
+image::images/apiexplore.png[]

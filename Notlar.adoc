@@ -1,0 +1,15 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+
+
+
+* Policy yaratırken verilen ismi o user dışındaki tüm policilerde arıyor ve aynı isim varsa already exist diyor.
+
+* Policy Name değiştiğinde tüm contractlarda ve lisanslarda ismi güncelliyor. Bu doğru mu? api cunsumer bu adın değiştiğini görünce bi sorun olduğunu düşünebilir mi?
+
+* Abyss platformu dışındanda bir user davet edilebilir mi?

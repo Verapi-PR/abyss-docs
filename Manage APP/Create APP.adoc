@@ -1,0 +1,30 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+
+
+== Create an Aplication
+
+
+****
+. Click My APPs tab
+. Click New button
+. Fill in the attributes as follws
+.. Application name
+.. Desctiption
+. Change toggle button if you want to activate APP
+. Type Url (optional)
+. Change toggle button if issandbox
+. Select Organization ID from dropdown list
+. Select Directory from dropdown list
+. Click Add APP button
+****
+
+
+.Create APP Screen
+[Figure 1]
+image::images/createapp.jpg[]

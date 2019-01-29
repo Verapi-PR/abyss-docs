@@ -1,0 +1,36 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+
+
+== Users
+
+You must define an Organization Administer Role to manage users in Organizations.
+
+****
+Ogranization Administer have access to 
+
+* Creat User
+* Edit User
+* Enable/disable User
+* Delete User
+.. Delete from Organization
+.. Delete from Business Group in Organization
+* Manage User's Roles
+* Manage User Permissions
+
+****
+
+[NOTE]
+When you delete a user from your Organizations, All the user's roles and permissions are romeved.
+When deleting from a business groups, all user's roles and perpissions for only selected business grups are romeved.
+
+
+
+
+
+

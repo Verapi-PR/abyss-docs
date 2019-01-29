@@ -1,0 +1,31 @@
+Main Header
+===========
+Optional Author Name <optional@author.email>
+Optional version, optional date
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  23/01/2019,25/01/2019
+
+== Managing API Contacts
+
+
+When an APP owner subscribes to an API a contract is created. 
+This contract shows agreement between APP owner and API owner.
+When you subscribe to an API, API creates an API Access Token. This token allows you to start to consume API.
+
+Contract informations are shown on both API and APP.
+
+
+****
+.Contract Informatin on APP Card
+[Figure 1]
+image::images/contractview1.jpg[]
+
+.Contract Information on API Card
+[Figure 1]
+image::images/contractview2.jpg[]
+
+
+****
+

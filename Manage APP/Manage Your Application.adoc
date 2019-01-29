@@ -1,0 +1,30 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+
+== Manage Your Application
+
+
+You can manage your applications easly on Abyss Platform.
+You can
+
+
+****
+* Create a new APP
+* Edit APP
+** Change
+*** APP name
+*** Description
+*** Activate or Inactive
+*** Issandbox or not
+*** Organization ID
+*** Directory
+* Delete APP
+* Test APP
+* Scribe/Unsubscribe API
+* Regenerate Access Token
+

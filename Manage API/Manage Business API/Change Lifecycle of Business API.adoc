@@ -1,0 +1,21 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+
+== Change Lifecycle of Business API
+
+{sp} +
+
+You can changed lifecycle of Business API by changing status as Draft, Live, Archived respectively.
+
+
+* Firstly select a Business API from My APPs menu.
+* Click Lifecycle button.
+* Select desired status.
+* Click Save Button.
+
+WARNING: There must not be any subscription with API to change lifecycle. If there is any subscription, you must contact with APP owner to make an deal for cancellation contact (subscription) which made between API and APP. You can change status of Business API after un-subscription.

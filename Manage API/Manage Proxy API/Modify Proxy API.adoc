@@ -1,0 +1,17 @@
+Main Header
+===========
+Optional Author Name <optional@author.email>
+Optional version, optional date
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+
+You can modify Proxy API under My Proxy APIs section on My APIs menu.
+
+* Select Proxy API from the list.
+* Click Edit button.
+* Change any editable field and press Save button.
+
+WARNING: Some field may not be allowed to change by the system if there is a subscription with API.

@@ -1,0 +1,33 @@
+Main Header
+===========
+Optional Author Name <optional@author.email>
+Optional version, optional date
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+
+== Creating a Policy
+
+
+You can create a License by following steps:
+
+****
+* Click MY Policies on menu tree
+* Click New Policy
+* Fill bewow fields
+** Plicy Name
+** Desctiption
+* Select a Policy from templates
+* Toogle Active/Inactive below Open API Lifecycles
+*** Policy Active on Proxy Request
+*** Policy Active on Proxy Response
+*** Policy Active on Business Request
+*** Policy Active on Business Response
+* Click ADD button.
+****
+
+.Create Policy Screen
+[Figure 1]
+image::images/createpolicy.jpg[]
