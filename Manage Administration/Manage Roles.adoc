@@ -10,10 +10,15 @@ Main Header
 
 Abyss Platform has following roles:
 
-* System Administrator
-* Organization Administrator
-* Developer
-* User
+* System Administer
+* Organization Administer
+* API Owner
+* API Developer
+* APP Owner
+* APP Developer
+* API Tester
+* Guest/Anonymous
+
 
 
 You can access Roles menu in Access Management > Roles.
@@ -48,6 +53,8 @@ Organization Administrator also perform following tasks:
 * Invite a user to an organization
 * Add, edit, remove users from an organization
 * Add a user to a role
+* Edit, modify, remove APIs
+* Edit, modify, remove APPs
 * Edit, modify, remove services
 * Edit, modify, remove policies
 * Edit, modify, remove licenses
