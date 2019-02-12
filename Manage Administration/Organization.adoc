@@ -12,7 +12,13 @@ Organization is the root level of Abyss Platform.
 
 You can view, configure and manage APIs, APPs, users, permissions, roles, events etc in the Organization.
 
-An Organization is created automaticly when you create an Abyss Platform account with Organization Administr role.
+****
+NOTE:
+(BU BİLGİ DOĞRU MU?)
+
+
+An Organization is created automaticly when you create an Abyss Platform account with Organization Administr role. 
+****
 
 Organization name and icon are displayed on the top of the left side of the page.
 You can navigate between your organizations by clicking organization icon.
@@ -25,7 +31,7 @@ They share resources, applications, API's and environments according to assigned
 For example, while one user can only read API, other user can edit an API in the Organization.
 
 
-NOTE: In trial mode you have one default organization and you dont have access edit it ot create new organizations.
+NOTE: In trial mode you have one default organization and you dont have access edit it or create new organizations.
 
 
 When you first signs up Abyss Platform you become the owner of your organization. Organization owner is also assigned as a Organization Administer role automatically.

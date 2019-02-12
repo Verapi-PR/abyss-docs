@@ -1,0 +1,38 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  28/01/2019
+
+=== Create Organization
+
+Organizatin Administer role has an access to create a new organization.
+
+To create a new organization on Abyss portal:
+
+. Click Identity Management
+. Click Organizations
+. Click Add new Organization
+. Enter Organization Name
+. Select Parent Organization
+. Enter Url
+. Enter Description
+. Click Add button
+
+****
+NOTE: After creating an Organization, you can create group and add users to this group.
+****
+
+==== Edit Organization
+
+You can edit defined fields of Organization by following these steps:
+
+. Click Identity Management
+. Click Organizations
+. Select Organization to edit
+. You can edit following field:
+- Modify Organiztion Name
+- Change Parent Organization
+- Change Url
+- Change Description

@@ -1,0 +1,26 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+=== Manage Widgets
+
+Wigdets on Abyss Dashboard give you to monitor and analyse the consumption fo APIs.
+
+There are multiple widgets on dashboard.
+
+You can 
+
+* Add widget
+* Edit widget
+** Change Title
+** Change Color
+** Change Size
+** Change Chart type
+* Remove widget
+
+
+
+You can use different widgets, charts, graphs on each dashboard.

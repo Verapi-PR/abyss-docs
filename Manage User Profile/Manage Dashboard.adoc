@@ -1,0 +1,27 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  22/01/2019
+
+
+== Dashboard
+
+Abyss Platform has a dashboard with many features.
+You can create and monitor multiple dashboard separately.
+
+You can also create and use more than one dashboard.
+
+You can
+
+* Copy dashboard from an exising one
+* Edit dashboard
+* Delete dashboard
+
+
+.Dashboard
+[Figure 1]
+image::images/dashboard.jpg[]
+
+

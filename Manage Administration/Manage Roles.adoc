@@ -23,7 +23,7 @@ You can access Roles menu in Access Management > Roles.
 === Organization Administrator
 
 ****
-Orgranization Administrator manages below roles in a odganization on Abyss Platform:
+Organization Administrator manages below roles in a organization on Abyss Platform:
 
 * Dashbord
 * Users

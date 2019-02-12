@@ -1,7 +1,5 @@
 Main Header
 ===========
-Optional Author Name <optional@author.email>
-Optional version, optional date
 :Author:    Ihsan Beyhan
 :Email:     ihsan.beyhan@verapi.com
 :Date:      17/01/2019

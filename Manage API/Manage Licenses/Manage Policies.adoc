@@ -1,13 +1,5 @@
 Main Header
 ===========
-
-:Author:    Ihsan Beyhan
-:Email:     ihsan.beyhan@verapi.com
-:Date:      17/01/2019
-:Revision:  22/01/2019
-
-
-
 :Author:    Ihsan Beyhan
 :Email:     ihsan.beyhan@verapi.com
 :Date:      17/01/2019
@@ -15,6 +7,7 @@ Main Header
 
 
 == Policies
+
 You can manage your policies on Abyss Platform. There are also template policies that you can on your licenses by modifiying them.
 
 ****

@@ -1,0 +1,17 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+== Mails
+
+Abyss has a mailbox for Abyss users. You can communicate with other users by sending and receiving mails.
+
+
+
+
+.Mailbox
+[Figure 1]
+image::images/mailbox.jpg[]

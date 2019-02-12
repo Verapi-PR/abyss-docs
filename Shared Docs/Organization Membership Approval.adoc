@@ -5,12 +5,20 @@ Main Headers
 :Date:      17/01/2019
 :Revision:  17/01/2019
 
-== Organization Membership Invitation, Request, Approval
+=== Organization Membership Invitation, Request, Approval
 
-Organziations on Abyss platform may have members. This membership request can be made by both an organzation owner or a platform user.
+Organization Admin manages the memebers of his own Organization.
+
+
+Membership to an organization is requested on both Directions.
+
+An Organization Admin can send an invitation to a user on Abyss Playform or outside of the Patform to be a member of own organization.
+
+A user also can send a request to be a member of that organization.
+
 
 ---
-=== Approval Request by a Platform User
+==== Approval Request by a Platform User
 
 
 A platform user can join an organization to be a member of this organization by following steps:
@@ -29,7 +37,7 @@ A platform user can join an organization to be a member of this organization by 
 
 {sp} +
 
-=== Approval Request by an Organization Owner
+==== Approval Request by an Organization Owner
 
 An organization owner can add a platform user to his own organization.
 

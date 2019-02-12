@@ -1,0 +1,19 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  17/01/2019
+
+
+== Notifications
+
+There are differrent type of notifications for different tasks and requests.
+
+* Accounts
+* Billing
+* Applications
+* Service subscriptions
+* Usage alerts
+
+You can see all notifications on notification area showing number of notification on the right upper side of the screen.
