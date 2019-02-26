@@ -14,13 +14,15 @@ You must define an Organization Administer Role to manage users in Organizations
 ****
 Ogranization Administer have access to 
 
-* Creat User
-* Edit User
-* Enable/disable User
-* Delete User
-.. Delete from Organization
-.. Delete from Business Group in Organization
-* Manage User's Roles
+* Manage User
+.. Invite User
+.. Creat User
+.. Edit User
+.. Enable/disable User
+.. Delete User
+... Delete User from Organization
+... Delete User from Group in Organization
+* Manage User Roles
 * Manage User Permissions
 
 ****
@@ -31,22 +33,18 @@ When deleting from a groups, all user's roles and permissions for only selected 
 
 
 
-=== Manage Users
 
-Abyss Administor and Organization Administor can add users to Organization.
+An Organization Administer can only manage users in his own Organizations.
 
-Organization Administrators can add developers to Organization.
 
-Organization Administor can only add user to own Organizations.
-
+[NOTE]
 User name must be unique.
 
-When Organization Administor adds a user, Abyss can send a notification to User if notify User checkbox is selected.
+Organization Administer can add User in 2 ways:
+* Cy creating User directly
+* By inviting to Organization
 
+If Organization Administer choose to add User direcly without invitation from inside Abyss Platform, just fills the required user informations and select a role for user and complete adding.
 
-*****
-If you did not select Notify User, then later when you want to send the invitation to the user:
-Go to the Users page.
-On the Actions menu beside the user, click Resend Activation Email
-
-*****
+If you as an Organization Administer choose the option to add a user by intivation, you also need to select a role to assign to User. 
+Invited User sees the invitation mail in his mailbox. If clicks the link, system directs User to signup page of Abyss. 

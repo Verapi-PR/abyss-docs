@@ -21,6 +21,6 @@ You can
 * View API Traffic Metrics
 * View API Healthcheck Metrics
 * View Logs
-* Setup an alert rule for unauthorized API activities
+* Set an alert rule for unauthorized API activities
 
 ****

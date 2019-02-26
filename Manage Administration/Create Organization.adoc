@@ -14,14 +14,14 @@ To create a new organization on Abyss portal:
 . Click Identity Management
 . Click Organizations
 . Click Add new Organization
-. Enter Organization Name
+. Type an Organization Name
 . Select Parent Organization
-. Enter Url
-. Enter Description
+. Type Url
+. Type Description
 . Click Add button
 
 ****
-NOTE: After creating an Organization, you can create group and add users to this group.
+NOTE: After creating an Organization, you can create groups and add users to this group.
 ****
 
 ==== Edit Organization

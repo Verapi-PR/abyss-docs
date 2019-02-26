@@ -5,6 +5,7 @@ Main Header
 :Date:      17/01/2019
 :Revision:  21/01/2019
 
+= ALINTIDIR =
 
 === Create an Abyss Platform Account
 
@@ -20,21 +21,21 @@ Password - Must be at least 6 characters in length and contain only the followin
 
 Company - Can be any name unless you were invited to join an existing organization, in which case the company name is already set.
 
-Anypoint Platform creates a new organization using the company name you entered and makes you the administrator of that organization. An Anypoint Platform account can be associated with only one organization.
+Abyss Platform creates a new organization using the company name you entered and makes you the administrator of that organization. An Abyss Platform account can be associated with only one organization.
 
 Agree to the terms of service.
 
 === Accepting an Invitation to an Existing Organization
-If someone else has already created an Anypoint Platform organization that you want to join, ask them for an invitation to that organization. When an administrator invites you to the organization, you receive an email with a link to accept the invitation.
+If someone else has already created an Abvyss Platform organization that you want to join, ask them for an invitation to that organization. When an administrator invites you to the organization, you receive an email with a link to accept the invitation.
 
-Click the link you received in the Anypoint invitation email.
-You must use the email address to which the invitation email was sent to sign up for an account with that organization. The Anypoint Platform signup screen appears.
+Click the link you received in the Abyss invitation email.
+You must use the email address to which the invitation email was sent to sign up for an account with that organization. The Abyss Platform signup screen appears.
 
 Enter the following information in the form:
 
 Full name - First and last name.
 
-Email address - If your email address is associated with more than one Anypoint Platform account, after clicking the link in the invitation choose one of the following:
+Email address - If your email address is associated with more than one Abyss Platform account, after clicking the link in the invitation choose one of the following:
 
 Using an Existing Account
 
@@ -75,7 +76,7 @@ Enter the following information in the form:
 
 Full name - First and last name.
 
-Email address - If your email address is associated with more than one Anypoint Platform account, after clicking the link in the invitation choose one of the following:
+Email address - If your email address is associated with more than one Abyss Platform account, after clicking the link in the invitation choose one of the following:
 
 Using an Existing Account
 
@@ -83,7 +84,7 @@ Creating a New Account Within an Existing Organization
 
 Phone number - Phone number with area code.
 
-Username - You can use the same email address for multiple Anypoint Platform accounts, but each account needs a unique username. This enables you to manage all of your Anypoint Platform accounts under a single email address.
+Username - You can use the same email address for multiple Abyss Platform accounts, but each account needs a unique username. This enables you to manage all of your Anypoint Platform accounts under a single email address.
 Must be at least 3 characters and contain only the following: alphanumeric characters, dashes, or underscores.
 
 Password - Must be at least 6 characters in length and contain only the following: upper and lower case characters, numbers, and non-alphanumeric symbols.

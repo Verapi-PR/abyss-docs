@@ -6,4 +6,10 @@ Main Header
 :Revision:  17/01/2019
 
 
-== Manage Environments
+== Manage Environments 
+
+
+there are 2 default Environment on Abyss Platform as Sandbox and Live.
+You can register and manage your API in Sandbox or Live environment.
+
+There is no transition between these environments. So, if you register and API in Sandbox, this API remains in sandbox on its all lifecycle. And if you register your API in Live, your API lives in Live environment on its all lifecycle.

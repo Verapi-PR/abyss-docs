@@ -12,10 +12,10 @@ Main Header
 
 You can publish an API by following steps:
 
-. Create a Business API
+. Register a Business API
 . Create a Proxy API from the Business API
-. Create policy
-. Create license
+. Create Policy
+. Create License
 . Add license to Proxy API
 . Select Environment as Live
 . Select Stage as Publish

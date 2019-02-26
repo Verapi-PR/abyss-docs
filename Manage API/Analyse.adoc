@@ -8,6 +8,6 @@ Main Header
 
 == Analyse
 
-Abyss has flexiable functions and graphics to monitor all activities and traffics of API.
+Abyss has flexiable functions and graphics to monitor all activities and traffics of APIs.
 
 You can customise your dashboard by using various analysing components. This give you power of managing APIs.

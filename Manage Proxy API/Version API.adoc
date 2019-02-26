@@ -1,0 +1,32 @@
+Main Header
+===========
+:Author:    Ihsan Beyhan
+:Email:     ihsan.beyhan@verapi.com
+:Date:      17/01/2019
+:Revision:  14/02/2019
+
+== Version API
+
+You can create a new version from an Proxy API.
+
+To create a new version;
+
+. Select a Proxy API
+. Click Create New Version button
+. Type a new version
+. Click ok
+
+
+Version Proxy API is created on draft state.
+You can edit and change state of version API.
+When you change state to public or promote system asks 2 questions:
+
+. Will old version vx.x.x be demoted?
+
+You can demote old version Proxy API by selecting "Yes" or you can leave old version remain.
+
+. Will subsctiptions be moved to this version? (if there is any subsctiption on oln version)
+
+If your old version Proxy API has subscription system warns you if you move these subsctiptions to new version API. If you select "Yes" system moves all subscriptions to new version API.
+
+

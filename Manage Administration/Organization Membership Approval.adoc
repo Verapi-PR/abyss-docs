@@ -7,7 +7,7 @@ Main Headers
 
 === Organization Membership Invitation, Request, Approval
 
-Organization Admin manages the memebers of his own Organization.
+Organization Admin manages the members of his own Organization.
 
 
 Membership to an organization is requested on both Directions.
@@ -18,42 +18,41 @@ A user also can send a request to be a member of that organization.
 
 
 ---
-==== Approval Request by a Platform User
-
-
-A platform user can join an organization to be a member of this organization by following steps:
-
-* Platform user finds and selects an organization and sends an intivation to the owner of organization.
-
-* Organization owner receives a notification by the system about the request.
-
-* Organization owner clicks notification.
-
-* Notification directs organization owner to mailbox.
-
-* Organization owner opens mail and clicks approval or reject button inside of mail.
-
-* System sends a notification to user to inform about approve or reject.
-
 {sp} +
 
 ==== Approval Request by an Organization Owner
 
-An organization owner can add a platform user to his own organization.
+An organization Administer can add a platform user to his own organization.
 
-* Organization owner selects a user from a directory and sends a invitation.
+* Organization owner selects a user from a directory and sends a invitation request.
 
-* Platform user receives a notification by the system about the request.
+* Platform user receives a notification shown on notificatiopn icon.
 
-* User clicks notification.
+* By clicking notification icon, system directs Platform User to task screen.
 
-* Notification directs user to mailbox.
+* Platform User clicks pending approvals on task screen and click accept button (or can reject this invitation).
 
-* User opens mail and and clicks approval or reject button inside of mail.
-
-* System sends a notification to organzation owner to inform about approve or reject.
+* System sends a notification to Organization Administer to inform about approvel or rejection.
  
 
 
+*****
+If you want to resend invitation mail to the user, go to waiting approvals on task screen and click resend activation mail button.
 
+*****
+
+==== Approval Request by a Platform User
+
+
+A platform User can send a request to an organization to be a member of this organization by following steps:
+
+* Platform User finds and selects an organization and sends an intivation to the Administer of organization.
+
+* Organization Administer receives a notification about the request and clicks notification icon.
+
+* By clicking notification icon, system directs Organization Administer to task scren.
+
+* Organization Administer clicks pending approvals on task screen and click accept button (or can reject this invitation).
+
+* System sends a notification to Platform User to inform about approval or rejection.
 

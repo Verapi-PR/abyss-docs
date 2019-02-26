@@ -28,7 +28,7 @@ You can access Roles menu in Access Management > Roles.
 === Organization Administrator
 
 ****
-Organization Administrator manages below roles in a organization on Abyss Platform:
+Organization Administrator manages belows in a organization on Abyss Platform:
 
 * Dashbord
 * Users
@@ -48,18 +48,13 @@ Organization Administrator manages below roles in a organization on Abyss Platfo
 ****
 
 ****
-Organization Administrator also perform following tasks:
+Organization Administrator also perform following tasks in the Organization;
 
 * Invite a user to an organization
 * Add, edit, remove users from an organization
 * Add a user to a role
-* Edit, modify, remove APIs
-* Edit, modify, remove APPs
-* Edit, modify, remove services
-* Edit, modify, remove policies
-* Edit, modify, remove licenses
+* Approve or reject approval tasks
 
-in the organization.
 
 ****
 
