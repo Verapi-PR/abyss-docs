@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><?asciidoc-toc?><?asciidoc-numbered?><article xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
+<info>
+<title>Main Header</title>
+<date>2019-03-27</date>
+<author>
+<personname>
+<firstname>Ihsan</firstname>
+<surname>Beyhan</surname>
+</personname>
+<email>ihsan.beyhan@verapi.com</email>
+</author>
+<authorinitials>IB</authorinitials>
+</info>
+<section xml:id="_users">
+<title>Users</title>
+<simpara>You must define an Organization Administer Role to manage users in Organizations.</simpara>
+<sidebar>
+<simpara>Ogranization Administer have access to</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Manage User</simpara>
+<orderedlist numeration="loweralpha">
+<listitem>
+<simpara>Invite User</simpara>
+</listitem>
+<listitem>
+<simpara>Creat User</simpara>
+</listitem>
+<listitem>
+<simpara>Edit User</simpara>
+</listitem>
+<listitem>
+<simpara>Enable/disable User</simpara>
+</listitem>
+<listitem>
+<simpara>Delete User</simpara>
+<orderedlist numeration="lowerroman">
+<listitem>
+<simpara>Delete User from Organization</simpara>
+</listitem>
+<listitem>
+<simpara>Delete User from Group in Organization</simpara>
+</listitem>
+</orderedlist>
+</listitem>
+</orderedlist>
+</listitem>
+<listitem>
+<simpara>Manage User Roles</simpara>
+</listitem>
+<listitem>
+<simpara>Manage User Permissions</simpara>
+</listitem>
+</itemizedlist>
+</sidebar>
+<note>
+<simpara>When you delete a user from your Organizations, All the user’s roles and permissions are romeved.
+When deleting from a groups, all user’s roles and permissions for only selected grups are romeved.</simpara>
+</note>
+<simpara>An Organization Administer can only manage users in his own Organizations.</simpara>
+<note>
+<simpara>User name must be unique.</simpara>
+</note>
+<simpara>Organization Administer can add User in 2 ways:
+* Cy creating User directly
+* By inviting to Organization</simpara>
+<simpara>If Organization Administer choose to add User direcly without invitation from inside Abyss Platform, just fills the required user informations and select a role for user and complete adding.</simpara>
+<simpara>If you as an Organization Administer choose the option to add a user by intivation, you also need to select a role to assign to User.
+Invited User sees the invitation mail in his mailbox. If clicks the link, system directs User to signup page of Abyss.</simpara>
+</section>
+</article>
