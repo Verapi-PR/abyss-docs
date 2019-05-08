@@ -10,11 +10,11 @@ Main Header
 
 Organization is the root level of Abyss Platform.
 
-When you signed up to Abyss Platform, sign up screen directs you to create an organization by typing organization name before login to Abyss Platform.
+When you signed up to Abyss Platform, system creates an organization automatically for you. 
 
-You can also create sub organizations.
 
 You are assined as Organization Administer role automatically when you signed up.
+
 
 As an Organization Administer, you can view, configure and manage APIs, APPs, users, groups, permissions, roles, events etc in the Organization.
 
@@ -22,15 +22,13 @@ As an Organization Administer, you can view, configure and manage APIs, APPs, us
 
 Organization name and icon are displayed on the top of the left side of the page.
 
-You can navigate between your organizations by clicking organization icon.
+You can navigate between your organizations by clicking organization name.
 
-On Organization screen under Admin menu, you can manage your organizations such as add, edit, remove child organizations, add, remove, enable/disable users.
+On Organization screen on Admin section, you can manage your organizations such as add, edit. You can also remove sub organizations from your parent organization.
 
 
 Multiple users can be a member of an Organization. A User can also be a memeber of different organizations.
 
 Users share resources, applications, API's and environments according to assigned roles and permissions in the organiation.
 
-
-
-NOTE: In trial mode you have one default organization and you dont have access edit it or create new organizations.
+You can also create sub organizations.

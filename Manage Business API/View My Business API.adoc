@@ -130,7 +130,7 @@ You can do below actions on detail page of Business APIs:
 ---
 
 
-=== My Subscriptions ===
+=== My Contracted APIs ===
 {sp} +
 
 The subscriptions of the Proxy APIs are listed on this section.
@@ -213,14 +213,3 @@ image:images/api-view-sharedwithme-detail.jpg[]
 
 {sp} +
 
----
-
-=== Organization APIs ===
-{sp} +
-
-All Organization APIs are listed on this section.
-You can
-
-* Subscribe an API.
-* Unsubscribe an API if you already subscribed.
-* See logs.

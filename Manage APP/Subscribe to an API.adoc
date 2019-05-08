@@ -18,8 +18,10 @@ Follow these steps to subscribe to an API:
 * Explore an API
 * Click on the API
 * Select a License by toggle button
-* Select your APP on Select APP field
+* Select your APP on APP selection field
 * Click Subscribe button
+
+Now you subecribed to the API.
 
 
 NOTE: There can be multiple licenses on an API. You can choose one of them according to your requirements.

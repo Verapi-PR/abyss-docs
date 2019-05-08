@@ -16,3 +16,8 @@ Abyss allows you to define SLA in a license with following:
 * Availability
 * SLA Blackout Hours Per Year
 * SLA Performance
+
+
+.SLA Screen
+[Figure 1]
+image::images/license-sla.png[]

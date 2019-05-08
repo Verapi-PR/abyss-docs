@@ -20,6 +20,13 @@ To create a new organization on Abyss portal:
 . Type Description
 . Click Add button
 
+
+
+.Add Organization
+[Figure 1]
+image::images/organization-add.png[]
+
+
 ****
 NOTE: After creating an Organization, you can create groups and add users to this group.
 ****
@@ -36,3 +43,8 @@ You can edit defined fields of Organization by following these steps:
 - Change Parent Organization
 - Change Url
 - Change Description
+
+
+.Edit Organization
+[Figure 1]
+image::images/organization-edit.png[]

@@ -13,7 +13,19 @@ Main Header
 You can create a proxy API from a Business API.
 
 * Firstly select an Business API from My APPs menu.
-* then click Create Proxy button
+* then click Create Proxy API button on dropwdown menu.
 
-NOTE: You can see new created Proxy API on Proxy API section under My APIs menu.
-You can also edit this Proxy API in that section.
+
+NOTE: You can see new created Proxy My API on Proxy APIs tab on My APIs menu.
+You can also edit this Proxy API in that section by clicking Edit API on dropdown menu.
+
+
+
+
+Create Proxy API
+[Figure 1]
+image::api-create-proxy.png[]
+
+Edit API
+[Figure 2]
+image::api-edit-button.png[]

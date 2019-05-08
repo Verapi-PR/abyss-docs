@@ -8,11 +8,10 @@ Main Header
 
 == Edit Application
 
-You can edit your aown applications.
+You can edit your own applications.
 
 
-===
-****
+
 
 . Click My APPs tab
 . Select application to edit
@@ -22,9 +21,13 @@ You can edit your aown applications.
 
 * APP name
 * Description
-* Active or Inactivate
+* Active or Inactive
 * Organization Id
 * Directory
 
-****
-===
+
+
+
+.Edit APP Screen
+[Figure 1]
+image::images/app-edit.png[]

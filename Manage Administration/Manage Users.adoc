@@ -16,7 +16,7 @@ Ogranization Administer have access to
 
 * Manage User
 .. Invite User
-.. Creat User
+.. Create User
 .. Edit User
 .. Enable/disable User
 .. Delete User

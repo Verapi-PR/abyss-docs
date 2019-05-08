@@ -6,8 +6,25 @@ Main Header
 :Revision:  17/01/2019
 
 
-== Analyse
+== Monitor API
 
 Abyss has flexiable functions and graphics to monitor all activities and traffics of APIs.
 
 You can customise your dashboard by using various analysing components. This give you power of managing APIs.
+
+
+
+With Abyss, you can monitor your applications and APIs
+
+****
+You can
+
+
+* View API Healthcheck Analytics
+* View API Traffic Analytics
+* View API Traffic Metrics
+* View API Healthcheck Metrics
+* View Logs
+* Set an alert rule for unauthorized API activities
+
+****

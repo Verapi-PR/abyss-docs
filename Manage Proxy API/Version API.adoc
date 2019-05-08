@@ -12,9 +12,9 @@ You can create a new version from an Proxy API.
 To create a new version;
 
 . Select a Proxy API
-. Click Create New Version button
-. Type a new version
-. Click ok
+. Click Edit button on DropDown menu
+. Type a new version on Code or Informatin tab
+. Click Create New Version
 
 
 Version Proxy API is created on draft state.
@@ -30,3 +30,7 @@ You can demote old version Proxy API by selecting "Yes" or you can leave old ver
 If your old version Proxy API has subscription system warns you if you move these subsctiptions to new version API. If you select "Yes" system moves all subscriptions to new version API.
 
 
+
+Create Version API
+[Figure 1]
+image::apieditor-version-change.png[]

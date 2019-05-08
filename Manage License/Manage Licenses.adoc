@@ -36,4 +36,4 @@ You can do following tasks with licenses:
 
 .Licenses Screen
 [Figure 1]
-image::images/licenses.jpg[]
+image::images/licenseview.png[]

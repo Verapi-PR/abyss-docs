@@ -10,18 +10,25 @@ Main Header
 
 Abyss Platform has following roles:
 
-* System Administer
-* Organization Administer
+* Abyss Guest Role
+* API Admin
+* APP Developer
 * API Owner
+* API Tester
 * API Developer
 * APP Owner
-* APP Developer
-* API Tester
-* Guest/Anonymous
+* Organization Admin
+* System Admin
+* Tenant Admin
+
 
 
 
 You can access Roles menu in Access Management > Roles.
+
+.Create APP Screen
+[Figure 1]
+image::images/role-list.png[]
 
 
 
@@ -50,16 +57,13 @@ Organization Administrator manages belows in a organization on Abyss Platform:
 ****
 Organization Administrator also perform following tasks in the Organization;
 
+* Manage Users
+* Manage Groups
+* Manage Roles
+* Manage Permissions
 * Invite a user to an organization
-* Add, edit, remove users from an organization
-* Add a user to a role
 * Approve or reject approval tasks
+** Membership approvals
+** Subscription approvals
 
 
-****
-
-=== Developers
-
-Developers have only read-only access to API.
-Users must be a member of an organization to access to the organisation APIs.
-A developer can be e member of multiple organizations to consume APIs from different organizations.

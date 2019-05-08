@@ -10,8 +10,8 @@ Main Header
 You can create a License by following below steps:
 
 ****
-. Click My License on user's manu.
-. Click New button
+. Click My License on MANAGE section of sidemunu.
+. Click ADD NEW button.
 
 .On General Information section:
 . Fill in the attributes as follows:

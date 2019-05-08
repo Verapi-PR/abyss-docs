@@ -11,7 +11,7 @@ Main Header
 
 You can manage your applications easly on Abyss Platform.
 
-You can
+You can perform following actions on APP:
 
 
 
@@ -25,7 +25,6 @@ You can
 *** Organization ID
 *** Directory
 * Delete APP
-* Test APP
 * Scribe/Unsubscribe API
 * Regenerate Access Token
 

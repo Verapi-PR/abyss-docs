@@ -27,4 +27,4 @@ Main Header
 
 .Create APP Screen
 [Figure 1]
-image::images/createapp.jpg[]
+image::images/app-add.png[]

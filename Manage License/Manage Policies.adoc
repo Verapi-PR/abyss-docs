@@ -8,27 +8,25 @@ Main Header
 
 == Policies
 
-You can manage your policies on Abyss Platform. There are also template policies that you can on your licenses by modifiying them.
+You can manage your policies on MANAGE saction of Side Menu.
 
 ****
 You can do following tasks:
 
-* Create Policy
-* Delete Policy
+* Add New Policy
 * Edit Policy
 ** Edit Name
 ** Edit Description
-** Edit Version
+** Edit is Active
 ** Edit Policy Type
-** Edit API Lifecycle
-*** Policy Active on Proxy Request
-*** Policy Active on Proxy Response
-*** Policy Active on Business Request
-*** Policy Active on Business Response
-
+* Delete Policy
 ****
 
 
 .Policies Screen
 [Figure 1]
-image::images/policies.jpg[]
+image::policyview.png[]
+
+.Edit Policy
+[Figure 2]
+image::policyedit.png[]

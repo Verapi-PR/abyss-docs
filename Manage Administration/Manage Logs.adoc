@@ -20,7 +20,7 @@ You can view below logs:
 ** Access logs
 ** Change logs
 * Search logs
-** Search by detault cirteria
+** Search by detault criteria
 ** Search by custom dates, times
 ** Search by system message types
 ** Search by free text

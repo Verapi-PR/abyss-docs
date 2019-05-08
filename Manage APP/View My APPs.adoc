@@ -8,180 +8,41 @@ Main Header
 
 == View APPs
 You can view your APPs on My APPs section of User Menu.
-There are different listing sections to view your APPs this menu.
-You can view your APPs on this section by:
-
-===== My APPs
-===== My APP Subscriptions
-===== APPs shared by Me
-===== APIs Shared With Me
 
 
-Details of these sections are described below.
+
+Your all APPs are listed on this section. You can see below information of APP detail page by clicking a app row:
 
 
-{sp} +
-
-=== My APPs
-{sp} +
-
-Your all APPs are listed on this section. You can see below information of APPs on rows:
-
-* APP logo
 * APP name
-* APP Version
 * APP Status
+* APP Url
+* APP Organization
+* APP registered Directory
+* APP Effective Start Date
+* APP Effective End Date
+* APP Created Date
+* APP Updated Date
+
+{sp} +
+
+You can also see below informations on sub-menu of APP detaiş page:
+
 * APP Subscriptions
-* API Environment
-* API Created Date
-* API Updated Date
 
 
-NOTE: You can Click on any APP to see more information about the APP.
 
 {sp} +
 
-.My APPs
+.List view of APPs 
 [Figure 1]
-image::images/app-view-detail.jpg[]
+image::images/app-list.png[]
 
 
-{sp} +
 
-Under My APPs section you can also see:
-
-*  Contracts & details made with APP.
-** Proxy APIs under this contract.
-
-{sp} +
-
-You can do below actions on detail page of Business APIs:
-
-* Clone API
-* Edit API
-* View logs
-
-{sp} +
-
-=== My APP Subscriptions
-{sp} +
-
-Your only APPs which have subscriptions are listed on this section. You can see below information of APPs on rows:
-
-* APP logo
-* APP name
-* APP Version
-* APP Status
-* APP Subscriptions
-* API Environment
-* API Created Date
-* API Updated Date
+NOTE: You can Click on any APP to see detail information about the APP.
 
 
-NOTE: You can Click on any APP to see more information about the APP.
-
-{sp} +
-
-.My APP Subscriptions
+.Detail view of APPs 
 [Figure 1]
-image::images/app-view-sub-detail.jpg[]
-
-
-{sp} +
-
-Under My APPs section you can also see:
-
-*  Contracts & details made with APP.
-** Proxy APIs under this contract.
-
-{sp} +
-
-You can do below actions on detail page of Business APIs:
-
-* Clone API
-* View logs
-
-{sp} +
-
-
-=== APPs Shared by Me
-{sp} +
-
-Your only APPs which shared by yourselves are listed on this section. You can see below information of APPs on rows:
-
-* APP logo
-* APP name
-* APP Version
-* APP Status
-* APP Subscriptions
-* API Environment
-* API Created Date
-* API Updated Date
-
-
-NOTE: You can Click on any APP to see more information about the APP.
-
-{sp} +
-
-.My APPs Shared by Me
-[Figure 1]
-image::images/app-view-sharedbyme-detail.jpg[]
-
-
-{sp} +
-
-Under My APPs section you can also see:
-
-*  Contracts & details made with APP.
-** Proxy APIs under this contract.
-
-{sp} +
-
-You can do below actions on detail page of Business APIs:
-
-* Clone API
-* Edit API
-* View logs
-
-{sp} +
-
-=== APPs Shared with Me
-{sp} +
-
-Your only APPs which shared with yourselves are listed on this section. You can see below information of APPs on rows:
-
-* APP logo
-* APP name
-* APP Version
-* APP Status
-* APP Subscriptions
-* API Environment
-* API Created Date
-* API Updated Date
-
-
-NOTE: You can Click on any APP to see more information about the APP.
-
-{sp} +
-
-.My APPs Shared with Me
-[Figure 1]
-image::images/app-view-sharedwithme-detail.jpg[]
-
-
-{sp} +
-
-Under My APPs section you can also see:
-
-*  Contracts & details made with APP.
-** Proxy APIs under this contract.
-
-{sp} +
-
-You can do below actions on detail page of Business APIs:
-
-* Clone API
-* Edit API
-* View logs
-
-{sp} +
+image::images/app-detail.png[]
