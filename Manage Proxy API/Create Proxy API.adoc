@@ -5,7 +5,7 @@ Main Header
 :Date:      17/01/2019
 :Revision:  17/01/2019
 ifdef::env-github[]
-:imagesdir: https://github.com/Verapi-PR/abyss-docs/tree/develop/images/
+:imagesdir: https://github.com/Verapi-PR/abyss-docs/blob/develop/images
 endif::[]
 
 == Create Proxy API
