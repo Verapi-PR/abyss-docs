@@ -6,6 +6,11 @@ Main Header
 :Revision:  22/01/2019
 
 
+ifdef::env-github[]
+:imagesdir: ../images/
+endif::[]
+
+
 == API Licenses
 
 
