@@ -5,6 +5,17 @@ Create Proxy API
 :Date:      17/01/2019
 :Revision:  17/01/2019
 
+ifdef::env-github[]
+:imagesdir: https://github.com/Verapi-PR/abyss-docs/blob/develop/images
+endif::[]
+
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
 
 {sp} +
 
