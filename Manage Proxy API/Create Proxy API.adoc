@@ -6,8 +6,6 @@ Create Proxy API
 :Revision:  17/01/2019
 
 
-
-
 {sp} +
 
 You can create a proxy API from a Business API.
